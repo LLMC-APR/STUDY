@@ -1,4 +1,4 @@
-# STUDY
+# An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair
 
 The advent of large language models (LLMs) has opened up new opportunities for automated program repair (APR). In particular, some recent studies have explored how to leverage large language models of code (LLMCs) for program repair tasks and show promising results. However, most of them adopt the zero/few-shot learning paradigm for APR by directly using LLMCs to generate the possibly correct code given its surrounding context. Though effective, the repair capabilities of LLMCs based on the fine-tuning paradigm have yet to be extensively explored. Also, it remains unknown whether LLMCs have the potential for repairing more complicated bugs (e.g., multi-hunk bugs).
 To fill the gap, in this work, we conduct a comprehensive study on the program repair capability of LLMC in the fine-tuning paradigm. 
