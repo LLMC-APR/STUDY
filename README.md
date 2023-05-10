@@ -6,7 +6,7 @@ This repository contains the code for <b> An Empirical Study on Fine-tuning Larg
 
 
 
-# Experimental Checkpoint, Result, and Data: https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing
+# Experimental Checkpoint, Result, and Data (130G): https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing
 
 
 ## Dependency
