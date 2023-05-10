@@ -19,5 +19,5 @@ python run.py \
         --train_batch_size 8 \
         --eval_batch_size 8 \
         --learning_rate 5e-5 \
-        --num_train_epochs 75 \
+        --num_train_epochs 30 \
         2>&1 | tee $output_dir/train.log
