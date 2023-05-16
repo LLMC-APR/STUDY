@@ -14,8 +14,6 @@ This repository contains the code for <b> An Empirical Study on Fine-tuning Larg
 * PyTorch 1.13.1
 * Huggingface transformers 4.24.0
 * Tree-sitter 0.20.1
-* Java 8
-* Defects4J
 
 
 
