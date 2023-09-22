@@ -7,7 +7,7 @@ This repository contains the code for <b> An Empirical Study on Fine-tuning Larg
 
 
 # Experimental Checkpoint, Result, and Data (130G): https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing
-(Considering the principle of anonymity, we will open access after the double-anonymous review.)
+(We are in the process of expanding the study and we will open access to it when it is completed.)
 
 ## Dependency
 * Python 3.10.8
