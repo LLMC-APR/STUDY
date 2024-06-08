@@ -1,23 +1,26 @@
-# An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair
+# Fine-tuning Large Language Models of Code for Automated Program Repair
 
 <p aligh="center">
-This repository contains the code for <b> An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair </b> and the Page (https://sites.google.com/view/llmc4apr) that has some visualizd data.
+This repository contains two parts, which we divided into <b> Initial Study </b> and <b> Extended Study </b>. Briefly, the Initial Study section covers LLM4APR study (Task 1-6), and the Extended Study section includes LLM4APR study (Task 7), PEFT4LLM study, and APR4LLM study.
 </p>
 
 
+## Initial Study
 
-# Experimental Checkpoint, Result, and Data (130G): https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing
-(We are in the process of expanding the study and we will open access to it when it is completed.)
+<p aligh="center">
+This repository contains the code for <b> An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair </b> and the Page (https://sites.google.com/view/llmc4apr) that has some visualizd data.
+   
+Experimental Checkpoint, Result, and Data (130G): https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing
+</p>
 
-## Dependency
+### Dependency
 * Python 3.10.8
 * PyTorch 1.13.1
 * Huggingface transformers 4.24.0
 * Tree-sitter 0.20.1
 
 
-
-## LLMC4APR
+### LLM4APR study (Task 1-6)
 The file structure of the artifact is as follow:
 ### [Source Code](https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing)
 * **Code:**
@@ -35,13 +38,10 @@ The file structure of the artifact is as follow:
     * **VulRepair_dataset:** [VulRepair dataset](https://github.com/awsm-research/VulRepair/tree/main/data/fine_tune_data), model checkpoints, candidate patches (VulRepair dataset).
     * **TFix_dataset:** [TFix dataset](https://drive.google.com/file/d/1CtfnYaVf-q6FZP5CUM4Wh7ofpp8b9ajW/view?usp=sharing), model checkpoints, candidate patches (TFix dataset).
     * **Defects4J_dataset:** [Defects4J dataset](https://github.com/rjust/defects4j).
-    
-    
-    
-    
-## Reproduction
+        
+### Reproduction
 Download source code and datasets from https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing.
-### Model Fine-tuning and Inference:
+#### Model Fine-tuning and Inference:
     
     cd Code
     
