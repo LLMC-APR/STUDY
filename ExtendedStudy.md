@@ -4,17 +4,17 @@
 <p aligh="center">
 This repository contains the code and data for the Extended Study.
    
-Experimental Code and Data (121G): https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing
+Experimental Code and Data: https://drive.google.com/drive/folders/12xIiZChs81NpUjGRCxHbuQEuT2ozHNB9?usp=sharing
 </p>
 
 ## Dependency
 * Python 3.10.8
 * PyTorch 1.13.1
-* transformers
-* peft
-* bitsandbytes
-* accelerate
-* sentencepiece
+* Transformers
+* Peft
+* Bitsandbytes
+* Accelerate
+* Sentencepiece
 
 
 ## LLM4APR study (Task 7)
@@ -39,7 +39,7 @@ The file structure of the artifact is as follow:
     * **HumanEval_dataset:** [HumanEval-Java dataset](https://github.com/lin-tan/clm/tree/main/humaneval-java).
         
 ### Reproduction
-Download source code and datasets from https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing.
+Download source code and datasets from https://drive.google.com/drive/folders/12xIiZChs81NpUjGRCxHbuQEuT2ozHNB9?usp=sharing.
 <b> Model Fine-tuning and Inference: </b>
     
     cd Code/1_LLM4APR
@@ -75,7 +75,7 @@ The file structure of the artifact is as follow:
 
         
 ### Reproduction
-Download source code and datasets from https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing.
+Download source code and datasets from https://drive.google.com/drive/folders/12xIiZChs81NpUjGRCxHbuQEuT2ozHNB9?usp=sharing.
 <b> Model Fine-tuning and Inference: </b>
     
     cd Code/2_PEFT4LLM
@@ -129,7 +129,7 @@ The file structure of the artifact is as follow:
 
         
 ### Reproduction
-Download source code and datasets from https://drive.google.com/drive/folders/1-3bA4fkvi18Pl9daIAhqUY4s7_tEph-d?usp=sharing.
+Download source code and datasets from https://drive.google.com/drive/folders/12xIiZChs81NpUjGRCxHbuQEuT2ozHNB9?usp=sharing.
 <b> Model Fine-tuning and Inference: </b>
     
     cd Code/3_APR4LLM
